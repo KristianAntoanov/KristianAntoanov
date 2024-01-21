@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kris+Ivanov's+GitHub+Stats&show_icons=true&theme=THEME_highcontrast" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&theme=THEME_dark)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
