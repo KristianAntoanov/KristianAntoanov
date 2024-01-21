@@ -5,9 +5,7 @@ My name is Kristian Ivanov
 -->
 💻 | Learning C# at SoftUni Software Program | -->
 
-Code enthusiast on a journey to mastering C# and building awesome software. 🚀"
-
-
+Code enthusiast on a journey to mastering C# and crafting awesome projects. |
 
 
 <div>
