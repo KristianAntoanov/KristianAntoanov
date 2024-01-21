@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kris+Ivanov's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kris+Ivanov's+GitHub+Stats&show_icons=true&theme=THEME_highcontrast" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&theme=THEME_dark)
