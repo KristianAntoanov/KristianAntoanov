@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KristianAntoanov/KristianAntoanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
