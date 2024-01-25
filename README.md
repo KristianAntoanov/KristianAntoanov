@@ -7,6 +7,9 @@ My name is Kristian Ivanov
 
 Code enthusiast on a journey to mastering C# and crafting awesome projects. |
 
+languages and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
