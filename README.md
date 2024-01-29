@@ -20,11 +20,6 @@ languages and tools:
   </a>
 </div>
 
-<script>
-  function openInNewWindow(url) {
-    window.open(url, '_blank');
-  }
-</script>
 
 
 
