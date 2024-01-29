@@ -12,7 +12,7 @@ languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Kristian's GitHub stats">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
