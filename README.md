@@ -9,7 +9,9 @@ Code enthusiast on a journey to mastering C# and crafting awesome projects. |
 
 languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,cs,html,css,docker,js,sqlserver&perline=7&theme=dark)
+
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
