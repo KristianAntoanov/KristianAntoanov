@@ -13,14 +13,12 @@ languages and tools:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,cs,html,css,docker,js,sqlserver&perline=7&theme=dark)
 
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&theme=dark&title_color=ffffff&bg_color=0d1117" alt="Kristian's GitHub stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Langs">
-  </a>
-</div>
 
 
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=KristianAntoanov&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
