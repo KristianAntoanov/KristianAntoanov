@@ -25,14 +25,14 @@ languages and tools:
 <details>
  <summary><h3>📜 My Certificates</h3></summary>
      
-<code><img  alt="Basic" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044075/Programming.Basics.-.May.2024.-.Certificate.pdf" /></code>
-<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044048/Programming.Fundamentals.with.C.-.September.2023.-.Certificate.pdf" /></code>
-<code><img  alt="Advance" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044078/C.Advanced.-.January.2024.-.Certificate.pdf" /></code>
-<code><img  alt="OOP" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044084/C.OOP.-.February.2024.-.Certificate.pdf" /></code>
-<code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044085/MS.SQL.-.May.2024.-.Certificate-2.pdf" /></code>
-<code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044089/Entity.Framework.Core.-.June.2024.-.Certificate.pdf" /></code>
-<code><img  alt="ASP.NET Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156100/ASP.NET.Fundamentals.-.September.2024.-.Certificate.pdf" /></code>
-<code><img  alt="ASP.NET Advanced" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156108/ASP.NET.Advanced.-.October.2024.-.Certificate.pdf" /></code>
+<code><img  alt="Basic" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044075/Programming.Basics.-.May.2024.-.Certificate.pdf" /></code>
+<code><img  alt="Fundamentals" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044048/Programming.Fundamentals.with.C.-.September.2023.-.Certificate.pdf" /></code>
+<code><img  alt="Advance" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044078/C.Advanced.-.January.2024.-.Certificate.pdf" /></code>
+<code><img  alt="OOP" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044084/C.OOP.-.February.2024.-.Certificate.pdf" /></code>
+<code><img  alt="MSSQL" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044085/MS.SQL.-.May.2024.-.Certificate-2.pdf" /></code>
+<code><img  alt="EntityFramework" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044089/Entity.Framework.Core.-.June.2024.-.Certificate.pdf" /></code>
+<code><img  alt="ASP.NET Fundamentals" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156100/ASP.NET.Fundamentals.-.September.2024.-.Certificate.pdf" /></code>
+<code><img  alt="ASP.NET Advanced" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156108/ASP.NET.Advanced.-.October.2024.-.Certificate.pdf" /></code>
 
 </details>
 
