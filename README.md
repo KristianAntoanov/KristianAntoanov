@@ -17,7 +17,7 @@ languages and tools:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KristianAntoanov&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianAntoanov&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
-  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=KristianAntoanov&theme=darcula&hide_border=true&background=FFFFFF00">
+    <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=KristianAntoanov&theme=darcula&hide_border=true&background=FFFFFF00&cache_bust=1">
   <br>
 </p>
 
@@ -30,7 +30,9 @@ languages and tools:
 <code><img  alt="Advance" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044078/C.Advanced.-.January.2024.-.Certificate.pdf" /></code>
 <code><img  alt="OOP" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044084/C.OOP.-.February.2024.-.Certificate.pdf" /></code>
 <code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044085/MS.SQL.-.May.2024.-.Certificate-2.pdf" /></code>
-<code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044089/Entity.Framework.Core.-.June.2024.-.Certificate.pdf" /></code> 
+<code><img  alt="EntityFramework" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/17044089/Entity.Framework.Core.-.June.2024.-.Certificate.pdf" /></code>
+<code><img  alt="ASP.NET Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156100/ASP.NET.Fundamentals.-.September.2024.-.Certificate.pdf" /></code>
+<code><img  alt="ASP.NET Advanced" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/files/18156108/ASP.NET.Advanced.-.October.2024.-.Certificate.pdf" /></code>
 
 </details>
 
